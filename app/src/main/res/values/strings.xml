@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">MathQuizApp</string>
+    <string name="ques1_choice1" translatable="false">25.30</string>
+    <string name="ques1_choice2" translatable="false"> 25.5</string>
+    <string name="ques1_choice3" translatable="false">25.00</string>
+    <string name="ques1_choice4" translatable="false">12.25</string>
+    <string name="question1">The average of first 50 natural numbers is …………. .</string>
+    <string name="question2">A fraction which bears the same ratio to 1/27 as 3/11 bear to 5/9 is equal to ……….. .</string>
+    <string name="ques2_choice1">1/55</string>
+    <string name="ques2_choice2">55</string>
+    <string name="ques2_choice3">3/11</string>
+    <string name="ques2_choice4">1/11</string>
+    <string name="question3">106 × 106 – 94 × 94 = ?</string>
+    <string name="question4"> A clock strikes once at 1 o’clock, twice at 2 o’clock, thrice at 3 o’clock and so on. How many times will it strike in 24 hours?</string>
+    <string name="ques4_choice1">78</string>
+    <string name="ques4_choice2">136</string>
+    <string name="ques4_choice3">156</string>
+    <string name="ques4_choice4">196</string>
+    <string name="question5"> Which of the following numbers gives 240 when added to its own square?</string>
+    <string name="ques5_choice1">15</string>
+    <string name="ques5_choice2">16</string>
+    <string name="ques5_choice3">18</string>
+    <string name="ques5_choice4">20</string>
+    <string name="question6"> What is 1004 divided by 2?</string>
+</resources>
